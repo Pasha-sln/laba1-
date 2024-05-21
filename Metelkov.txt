@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Pavel Nikolaev
+=======
+Pavel Nikolaevich
+
+>>>>>>> 0423a25a76ec6413a1ac6a2b9ce7a7362affb39e
